@@ -1,0 +1,49 @@
+ .contact-map {
+     min-height: 377px;
+     margin: 5% 0%;
+     z-index: 1;
+     position: relative;
+ }
+
+ .back-img {
+
+     background-image: url(img3/b1.png);
+     background-size: cover;
+     height: 100px;
+     width: 100%;
+     background-repeat: no-repeat;
+     background-position: center center;
+     height: 600px;
+     position: relative;
+     z-index: -1;
+ }
+
+
+ .form-box {
+     background-color: rgba(0, 123, 255, 0.25);
+     border: 2px solid transparent;
+     width: 100%;
+     margin: 8% 0%;
+     padding: 2% 4%;
+     border-radius: 9px;
+     color: black;
+     z-index: 1;
+     position: relative;
+ }
+
+ .form-btn {
+     margin: 5%;
+     padding: 9px 14px;
+     text-align: center;
+     border: solid 2px transparent;
+     width: 100px;
+     border-radius: 13px;
+     background-color: #0d75dd;
+     color: white;
+ }
+
+ h3 {
+     color: #4b4444;
+     font-family: fantasy;
+     font-style: italic;
+ }

@@ -1,0 +1,148 @@
+body {
+            height: 100%;
+            padding-top: 0px !important;
+
+        }
+
+
+        .carousel-size {
+            width: 100%;
+            height: 550px;
+        }
+
+        .carousel-align {
+            padding-left: 0px;
+            padding-right: 0px;
+        }
+
+        @media (min-width: 576px) {
+            .carousel-size {
+                width: 100%;
+                height: 352px;
+
+            }
+
+            .carousel-align {
+                padding-left: 0px;
+                padding-right: 0px;
+                margin-top: 121px;
+            }
+        }
+
+        @media (min-width: 768px) {
+            .carousel-size {
+                width: 100%;
+                height: 457px;
+            }
+
+        }
+
+        @media (min-width: 992px) {
+            .carousel-size {
+                width: 100%;
+                height: 580px;
+            }
+
+        }
+
+
+
+        .carousel-indicators li {
+
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+
+
+            background-color: rgba(0, 0, 0, 0);
+
+            border: 1px solid rgb(252, 249, 249);
+        }
+
+
+        .movie-container {
+            padding: 2rem 1rem;
+            margin-bottom: 2rem;
+            background-image: url(img3/blue-background.jpeg);
+            background-size: cover;
+            color: white;
+            border-radius: 0.3rem;
+
+        }
+
+        .heading-1 {
+            text-align: center;
+            color: white;
+        }
+
+        .heading-1 h3:before {
+            content: "";
+            position: absolute;
+            top: 6%;
+            left: 25%;
+            width: 45px;
+            height: 5px;
+            background-color: #ce1d1d;
+        }
+
+        .heading-1 h3:after {
+            content: "";
+            position: absolute;
+            top: 6%;
+
+            width: 45px;
+            height: 5px;
+            background-color: #ce1d1d;
+        }
+
+        .heading-1-left h3:after {
+            left: 66%;
+        }
+
+        .heading-2-left h3:before {
+            left: 22% !important;
+        }
+
+        .heading-2-left h3:after {
+            left: 70%;
+        }
+
+        .heading-3-left h3:before {
+            left: 30% !important;
+        }
+
+        .heading-3-left h3:after {
+            left: 61%;
+        }
+
+        .heading-4-left h3:after {
+            left: 66%;
+        }
+
+        .heading-5-left h3:after {
+            left: 66%;
+        }
+
+        .heading-6-left h3:before {
+            left: 23% !important;
+        }
+
+        .heading-6-left h3:after {
+            left: 68%;
+        }
+
+        .heading-7-left h3:after {
+            left: 66%;
+        }
+
+        .heading-8-left h3:before {
+            left: 27% !important;
+        }
+
+        .heading-8-left h3:after {
+            left: 64%;
+        }
+
+        .carousel-control-prev .carousel-control-next {
+            color: white;
+        }

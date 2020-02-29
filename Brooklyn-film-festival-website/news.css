@@ -1,0 +1,48 @@
+body {
+ 
+        padding-top: 126px !important;
+
+        }
+
+        .pic {
+
+
+            height: auto;
+            width: 100%;
+            overflow: hidden;
+
+        }
+
+        .grow img {
+            height: auto;
+            width: 100%;
+
+            -webkit-transition: all 1s ease;
+            -moz-transition: all 1s ease;
+            -o-transition: all 1s ease;
+            -ms-transition: all 1s ease;
+            transition: all 1s ease;
+        }
+
+        .grow img:hover {
+            transform: scale(1.1)
+        }
+
+        .top-header {
+            padding: 1% 41%;
+            font-style: italic;
+            font-family: serif;
+        }
+
+        .news-algin {
+            margin: 4% 0%;
+        }
+
+        .news-algin h2:hover {
+            font-family: serif;
+            color: #0633e8;
+        }
+
+        .header-style {
+            font-family: serif !important;
+        }

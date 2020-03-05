@@ -21,3 +21,4 @@
    - Links to social media
   
  #### [You can view the website from here!]( https://christinematta.github.io/P3_analyze-a-client-s-needs-for-their-film-festival/Brooklyn-film-festival-website/home.html)
+ ![Brooklyn](https://christinematta.github.io/P3_analyze-a-client-s-needs-for-their-film-festival/Brooklyn_festival.png)
